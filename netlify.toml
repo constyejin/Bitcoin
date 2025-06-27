@@ -1,4 +1,4 @@
 [build]
-  base = "bit/ko/gambling/casino"
+  base = "bit"
   publish = "."
   command = ""
