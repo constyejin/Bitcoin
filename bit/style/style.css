@@ -7463,9 +7463,10 @@ footer .sc-kAyceB {
 }
 
 footer .universal-footer-link {
-  color: #ccc;
+  color: rgb(91, 102, 124);
   text-decoration: none;
   font-size: 14px;
+  font-weight: 400;
   transition: color 0.3s;
 }
 
