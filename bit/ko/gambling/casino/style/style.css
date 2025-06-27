@@ -7410,3 +7410,26 @@ data-styled.g708[id="sc-keyframes-cQoXzO"] {
 data-styled.g709[id="sc-keyframes-gCkzKe"] {
   content: "gCkzKe,"
 }
+
+
+/* Footer */
+footer {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+.bGzfgd {
+  background-color: rgb(241, 247, 253);
+  color: rgb(19, 23, 32);
+  width: 100%;
+  padding: 96px 0px 64px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 48em) {
+  .bGzfgd {
+    font-size: 16px;
+  }
+}
