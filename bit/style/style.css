@@ -7440,9 +7440,13 @@ footer .sc-dcJsrY {
 
 footer .sc-jXbUNg {
   display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  flex-flow: column;
   gap: 10px;
   margin-top: 20px;
 }
+
 
 footer .sc-jXbUNg img {
   width: 150px;
